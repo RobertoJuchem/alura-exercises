@@ -1,0 +1,19 @@
+.pessoa-img{
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    height: 260px;
+    margin: 0 auto;
+    width: 260px;
+}
+
+.pessoa-img-roberta{
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
+
+.pessoa-img-marcela{
+    background-image: url('../../img/pessoas/marcela.jpg');
+}
+
+.pessoa-img-andreia{
+    background-image: url('../../img/pessoas/andreia.jpg');
+}
